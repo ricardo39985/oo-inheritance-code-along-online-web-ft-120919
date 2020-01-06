@@ -7,7 +7,7 @@ class Vehicle
     @@all << self
   end
   def go
-    'vrrrrrrrooom!'
+    'VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!'
   end
   def fill_up_tank
     'filling up!'
